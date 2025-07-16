@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Henning Marine USA | American Boat Racing</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff; color: #000; }
+    header { background: #000; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #111; padding: 10px; text-align: center; }
+    nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    .hero { background: url('boat-race-hero.jpg') no-repeat center center; background-size: cover; height: 400px; display: flex; align-items: center; justify-content: center; color: white; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 4px black; }
+    .cta { background: #eee; padding: 40px 20px; text-align: center; }
+    footer { background: #000; color: white; text-align: center; padding: 20px; font-size: 14px; }
+    .btn { background: black; color: white; padding: 12px 25px; text-decoration: none; font-weight: bold; border: none; cursor: pointer; }
+    .btn:hover { background: #444; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Henning Marine USA</h1>
+  <p>Built in Africa. Raced in America.</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#boats">Our Boats</a>
+  <a href="#racing">Racing League</a>
+  <a href="#events">Events</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+  Welcome to American Boat Racing
+</div>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Henning Marine USA brings the adrenaline of African boat engineering to American waters. Our South African-built boats are designed for speed, safety, and high-performance water sport competition. Backed by decades of racing, our mission is to grow a nationwide movement in boat racing across the United States.</p>
+</section>
+
+<section id="boats">
+  <h2>Our Boats</h2>
+  <p>Every Henning Marine boat is crafted with precision, using advanced composite materials and tuned for wave-crushing performance. U.S. Coast Guard compliant and ABYC-certified, these boats are ready for race day or rugged recreation.</p>
+</section>
+
+<section id="racing">
+  <h2>USA Racing League</h2>
+  <p>Join our national racing league! Represent your state, wear your colors, and compete in epic water battles. The Henning Marine USA League partners with local clubs, sponsors, and the national watersport federation to bring elite-level racing coast to coast.</p>
+</section>
+
+<section id="events">
+  <h2>Upcoming Events</h2>
+  <ul>
+    <li><strong>August 24, 2025:</strong> Florida Inaugural State Race - Daytona Beach</li>
+    <li><strong>September 14, 2025:</strong> California Showdown - Huntington Beach</li>
+    <li><strong>October 12, 2025:</strong> National Blazer Cup - Gulf Coast Finals</li>
+  </ul>
+</section>
+
+<section class="cta">
+  <h2>Get Involved</h2>
+  <p>Want to race? Want to sponsor? Want to bring the league to your city?</p>
+  <a class="btn" href="#contact">Contact Us</a>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: info@henningmarineusa.com</p>
+  <p>Instagram: @henningmarineusa</p>
+</section>
+
+<footer>
+  &copy; 2025 Henning Marine USA | All Rights Reserved
+</footer>
+
+</body>
+</html>
